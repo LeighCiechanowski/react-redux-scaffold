@@ -4,7 +4,7 @@ import App from './components/App';
 import Home from './components/home/Home';
 import About from './components/about/About';
 import Courses from './components/courses/Courses';
-import ManageCourse from './components/courses/ManageCourse';
+import ManageCourse from './components/courses/ManageCourse'; //es-lint-disbaled so I can export as a named expport so I can test the component without the Redux connect
 
 export default (
     <Route path="/" component={App}>
