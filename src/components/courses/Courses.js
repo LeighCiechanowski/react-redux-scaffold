@@ -16,8 +16,6 @@ class Courses extends Component {
         browserHistory.push('/course');
     }
     render() {
-        const test = [1,2,3,4,5];
-        console.log(test.slice(0,1));
         return (
             <div>
                 <h1>Courses</h1>
