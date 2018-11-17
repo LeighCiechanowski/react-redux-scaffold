@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/410358/48665482-02126c80-eaa7-11e8-84e8-b95d0945ab3d.jpeg"/>
+</p>
+
 # React Redux Starter Kit
 A basic starter project for a React Redux Application. It lays down a "standard'ish" pattern for how to layout your application when using React with Redux. Should hopefully help you hit the ground running. Clone it, run it, modify as required. 
 
